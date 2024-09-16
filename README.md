@@ -1,8 +1,8 @@
-# 🌟 **[Noctu]** 🌟
+# 🌟 **Noctu** 🌟
 
 ### 🚀 Transforming Ideas Into Digital Realities 🚀
 
-Welcome to **[Noctu]**, where **creativity**, **technology**, and **innovation** collide to deliver top-notch digital solutions. Whether you’re a startup or a seasoned business, we’re here to empower your vision with state-of-the-art web development, app development, design, and chatbot support.
+Welcome to **Noctu**, where **creativity**, **technology**, and **innovation** collide to deliver top-notch digital solutions. Whether you’re a startup or a seasoned business, we’re here to empower your vision with state-of-the-art web development, app development, design, and chatbot support.
 
 ---
 
@@ -79,13 +79,5 @@ Need a partner to bring your next project to life? Reach out and let’s turn yo
 
 ---
 
-### 💡 **Recent Projects** 💡
-Check out some of our recent works:
 
-- [Project 1 Name](https://linktoproject1.com)
-- [Project 2 Name](https://linktoproject2.com)
-- [Project 3 Name](https://linktoproject3.com)
-
----
-
-#### 🖌️ Designed with passion by **[Noctu]**
+#### 🖌️ Designed with passion by **Noctu**
